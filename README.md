@@ -16,7 +16,7 @@ Motivated and detail-oriented MCA student with internship experience in Django-b
 **Python Developer Intern**  
 Avadh Web (Dec 2024 - April 2025)  
 - Developed dynamic web applications using Python and Django  
-- Integrated Django ORM with PostgreSQL/MySQL for efficient data operations  
+- Integrated Django ORM with MySQL for efficient data operations  
 - Designed UI using HTML, CSS, JavaScript, Bootstrap  
 
 ### 🛠️ Projects
